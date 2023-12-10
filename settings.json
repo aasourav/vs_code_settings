@@ -1,0 +1,65 @@
+{
+  "application.shellEnvironmentResolutionTimeout": 120,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "terminal.integrated.inheritEnv": false,
+  "workbench.startupEditor": "none",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.find.autoFindInSelection": "always",
+  "debug.javascript.codelens.npmScripts": "never",
+  "terminal.integrated.fontSize": 16,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.gpuAcceleration": "canvas",
+  "terminal.external.osxExec": "iTerm.app",
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.fontFamily": "meslolgs nf",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "eslint.alwaysShowStatus": true,
+  "eslint.debug": true,
+  "eslint.lintTask.enable": true,
+  "eslint.packageManager": "yarn",
+  "typescript.suggest.paths": false,
+  "javascript.suggest.paths": false,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.minimap.enabled": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "javascript.format.semicolons": "insert",
+  "typescript.format.semicolons": "insert",
+  "editor.fontSize": 15,
+  "editor.fontFamily": "'Fira Code Medium'",
+  "editor.fontLigatures": true,
+  "cSpell.userWords": ["getdoctor", "Pathshala"],
+  "workbench.iconTheme": "vscode-icons",
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "editor.wordWrap": "on",
+  "editor.formatOnPaste": true,
+  "window.zoomLevel": 1,
+  "prettier.trailingComma": "all",
+  "workbench.colorTheme": "One Dark Pro",
+  "git.openRepositoryInParentFolders": "never",
+  "vim.handleKeys": {
+    "<C-i>": false
+  },
+  "vim.insertModeKeyBindings": [
+    {
+      "before": ["j", "j"],
+      "after": ["<Esc>"]
+    }
+  ],
+  "reactSnippets.settings.prettierEnabled": true,
+  "editor.formatOnSave": true,
+  "notebook.formatOnSave.enabled": true
+}
